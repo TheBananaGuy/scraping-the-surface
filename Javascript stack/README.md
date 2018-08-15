@@ -12,7 +12,7 @@ Commands given below should be executed through Windows' command prompt.
 
 ## Step 1 - download Node.JS
 
-Go to the (official source)[https://nodejs.org/en/]
+Go to the [official source](https://nodejs.org/en/)
 Make sure that you pick the LTS (Long Term Support) version
 Make sure all the environment variables are set during installation.
 

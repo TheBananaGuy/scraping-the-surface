@@ -12,7 +12,7 @@ Commands given below should be executed through Windows' command prompt.
 
 ## Step 1 - download Python
 
-Go to the (official source)[https://www.python.org/downloads/]
+Go to the [official source](https://www.python.org/downloads/)
 I recommend taking version **3.6.5**, as it was the one I used.
 Make sure all the environment variables are set during installation.
 
@@ -35,7 +35,7 @@ pip install selenium
 pip install beautifulsoup4 
 ```
 
-Download **Firefox driver** for Selenium (here)[https://github.com/mozilla/geckodriver/releases)] and put it where the scripts are.
+Download **Firefox driver** for Selenium [here](https://github.com/mozilla/geckodriver/releases) and put it where the scripts are.
 
 ## Step 4 - run your scripts
 
