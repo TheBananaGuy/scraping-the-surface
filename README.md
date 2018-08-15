@@ -28,7 +28,7 @@ In this situation, the main goal was to compare different technologies used in w
 
 An example case example could be the following - sometimes, there is a simple requirement to get the prices for certain products, if you are selling the same items but would like to introduce competitorship by having them lowered compared to other resources. In this case, we are going to attempt to scrape simple data such as prices, product names, product unique identifier numbers, availability, and if there's a discount or not.
 
-As our subject to scrape, I chose [Føniks](www.fcomputer.dk) - a Danish store that sells different kinds of consumer electronics both online and physically. Items in question could simply be laptops - a perfect example of a product to set a competitive price for.
+As our subject to scrape, I chose [Føniks](https://www.fcomputer.dk/) - a Danish store that sells different kinds of consumer electronics both online and physically. Items in question could simply be laptops - a perfect example of a product to set a competitive price for.
 
 ## Prerequisites
 
